@@ -1,0 +1,75 @@
+{
+  "project_info": {
+    "project_number": "163966808867",
+    "firebase_url": "https://wallpapers-1e721.firebaseio.com",
+    "project_id": "wallpapers-1e721",
+    "storage_bucket": "wallpapers-1e721.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163966808867:android:f4e6f4e57c426d71",
+        "android_client_info": {
+          "package_name": "com.mg.cryptostocks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163966808867-4dl5s8c7rc7hbk52iljqpi0j4jkrup0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm32ybzbCCNtFPFbzC90fjQerEhs-_8V8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-7600031190372955~4233772250"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163966808867:android:f1a01729a30eacfe",
+        "android_client_info": {
+          "package_name": "com.mukundgoenka.amoledwallpapers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163966808867-4dl5s8c7rc7hbk52iljqpi0j4jkrup0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm32ybzbCCNtFPFbzC90fjQerEhs-_8V8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-7600031190372955~1078335112"
+    }
+  ],
+  "configuration_version": "1"
+}
